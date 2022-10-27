@@ -3,7 +3,7 @@
 <details>
 <summary>Profile Views 👀 </summary>
 <br>
-<p > <img src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=Omaranwa&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
 </details>
 <br/>
 <hr width="200px" align="left" />
