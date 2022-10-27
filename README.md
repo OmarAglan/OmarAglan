@@ -8,9 +8,9 @@
 <br/>
 <hr width="200px" align="left" />
 
-Hi 👋, This is Mohamed Amine Fhal, a Self-taught web developer, has experience in [ HTML, CSS, JS, React, Nodejs, Express, MongoDB, Python, Flask, Django ].
+Hi 👋, This is Omar Aglan, a Self-taught Game Developer And Programer, has experience in [ C++, C#, Unity, OpenGl, Game Design ].
 
-Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" height="15px" /> - <img src="./assets/graphql.png" alt="Graphql logo" width="15px" height="15px" /> and Everything related 😁
+Currently learning Game Engine Development <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" height="15px" /> - <img src="./assets/graphql.png" alt="Graphql logo" width="15px" height="15px" /> and Everything related 😁
 
 <hr width="200px" align="right" />
 <br/>
@@ -23,27 +23,15 @@ Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="
 
 | Project                                                   |     Tech      |                                                       Link |
 | --------------------------------------------------------- | :-----------: | ---------------------------------------------------------: |
-| [My Blogs App](https://github.com/medaminefh/blogs)       |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
-| [Tweet clone](https://github.com/medaminefh/Network-cs50) | React, Django |    <a href="https://network-cs50w.herokuapp.com"> DEMO</a> |
-| [InstaClone](https://github.com/medaminefh/instag)        |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
-| [Klondike](https://github.com/medaminefh/klondike)        |     Vue3      |       <a href="https://klondikevue.netlify.app/"> DEMO</a> |
+| [My Game Engine (WIP)](https://github.com/Omaranwa/Pyramid)       |     OpenGl, C++      |     |
+| [Snake Clone Game In 3D using Unity](https://github.com/Omaranwa/Just-Another-Snake-Game-3D) | Unity, C# |     |
+| [TowerDefance Game In Unity](https://github.com/Omaranwa/Defend-The-Pyramids)        |     Unity, C#      |  |
+
 
 </details>
 
 <br />
 
-Top In Tunisia on <a href="https://sololearn.com/" >Sololearn</a> <img src="https://blob.sololearn.com/avatars/sololearn.png" width="20px">
-
-### 📕 Check My Latest Blog Posts ⇩⇩⇩
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Passing Components as Props in React](https://dev.to/medaminefh/passing-components-as-props-in-react-36h8)
-- [3 Ways to Add JS to HTML](https://dev.to/medaminefh/3-ways-to-add-js-to-html-2n9l)
-- [3 Ways to Add CSS to HTML](https://dev.to/medaminefh/3-ways-to-add-css-to-html-1fad)
-- [Passing Data with React Router using Link](https://dev.to/medaminefh/passing-data-with-react-router-using-link-1h39)
-- [Protect Your Routes in React](https://dev.to/medaminefh/protect-your-components-with-react-router-4hf7)
-  <!-- BLOG-POST-LIST:END -->
   <hr/>
   <br/>
 
