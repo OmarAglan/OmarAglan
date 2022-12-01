@@ -48,7 +48,15 @@ Currently learning Game Engine Development and Everything related 😁
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omaranwa&show_icons=true&locale=en&theme=cobalt" alt="Omaranwa" /></p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaranwa&layout=compact&langs_count=9&theme=cobalt" /></p>
-
+<center>
+  <table>
+  <tr>
+      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=Omaranwa&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Omaranwa&theme=dark" /></td>    
+     
+  </tr>   
+  </table>
+</center>
 ---
 
 <p align="center"><strong>@Omaranwa</strong></p>
