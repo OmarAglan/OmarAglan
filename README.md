@@ -43,7 +43,7 @@ Currently learning Game Engine Development and Everything related 😁
 <a href="mailto:Omar.aglan91@gmail.com" target="_blank">Omar.aglan91@gmail.com
 </a>
 <br/>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaranwa&layout=compact&langs_count=9&theme=cobalt" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaranwa&layout=compact&langs_count=15&theme=cobalt" /></p>
 <center>
   <table>
   <tr>
