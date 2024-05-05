@@ -8,9 +8,9 @@
 <br/>
 <hr width="200px" align="left" />
 
-Hi 👋, This is Omar Aglan, a Self-taught Game Developer And Programer, has experience in [ C++, C#, Unity, OpenGl, Game Design ].
+Hi 👋, This is Omar Aglan, a Self-taught Full-Stack Developer And Game Developer, has experience in [HTML, CSS, JavaScript, React.js, Vue.js, Next.js, C++, C#, Unity, OpenGl, Game Design ].
 
-Currently learning Game Engine Development and Everything related 😁
+Currently Working On My Online Portfolio, And Couple Of Full-Stack Projects, And Doing Some Game Development In between!
 
 <hr width="200px" align="right" />
 <br/>
