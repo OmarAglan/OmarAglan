@@ -3,14 +3,14 @@
 <details>
 <summary>Profile Views 👀 </summary>
 <br>
-<p > <img src="https://komarev.com/ghpvc/?username=Omaranwa&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=omaraglan&label=Profile%20views&color=0e75b6&style=flat" alt="omaraglan" /> </p>
 </details>
 <br/>
 <hr width="200px" align="left" />
 
-Hi 👋, This is Omar Aglan, a Self-taught Full-Stack Developer And Game Developer, has experience in [HTML, CSS, JavaScript, React.js, Vue.js, Next.js, C++, C#, Unity, OpenGl, Game Design ].
+Hi 👋, This is Omar Aglan, a Self-taught Full-Stack Developer And Game Developer, has experience in [HTML, CSS, JavaScript, React.js, Vue.js, Next.js, C++, C#, Unity, OpenGL, Game Design ].
 
-Currently Working On My Online Portfolio, And Couple Of Full-Stack Projects, And Doing Some Game Development In between!
+I am currently Working On My Online Portfolio, And a Couple Of Full-Stack Projects, And Doing Some Game Development In between!
 
 <hr width="200px" align="right" />
 <br/>
@@ -43,12 +43,12 @@ Currently Working On My Online Portfolio, And Couple Of Full-Stack Projects, And
 <a href="mailto:Omar.aglan91@gmail.com" target="_blank">Omar.aglan91@gmail.com
 </a>
 <br/>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omaranwa&layout=compact&langs_count=15&theme=cobalt" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaraglan&layout=compact&langs_count=15&theme=cobalt" /></p>
 <center>
   <table>
   <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=Omaranwa&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Omaranwa&theme=dark" /></td>    
+      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=omaraglan&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omaraglan&theme=dark" /></td>    
      
   </tr>   
   </table>
