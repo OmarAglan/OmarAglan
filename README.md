@@ -115,7 +115,7 @@ const omar = {
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=OmarAglan)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-sand-seven.vercel.app?user=omaraglan)](https://git.io/streak-stats)
   
 </div>
 
