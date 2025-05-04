@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello World, I'm Omar Aglan</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Developer;Creative+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Game+Developer;Creative+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,15 +18,16 @@
 ```javascript
 const omar = {
     role: "Full Stack & Game Developer",
-    code: ["JavaScript", "C++", "C#", "HTML", "CSS"],
+    code: ["C", "C++", "C#", "Paython","HTML", "CSS","Javascript"],
     technologies: {
         frontEnd: ["React.js", "Vue.js", "Next.js"],
         backEnd: ["Node.js", "Express.js"],
-        gamedev: ["Unity", "OpenGL"],
-        design: ["UI/UX", "Game Design"]
+        gamedev: ["Unity", "OpenGL","DirectX"],
+        design: ["UI/UX", "Game Design", "Web Design"],
+        softwareEngineer: ["Compiler Design", "Low Level Programming",".Net"]
     },
-    currentFocus: "Building innovative web and game experiences",
-    funFact: "I turn coffee into code and dreams into games!"
+    currentFocus: "Working on Baa Programming Language and Arbsh Shell",
+    funFact: "I seek to Add Multiple Massive Arabic Projects to the Web!"
 };
 ```
 
@@ -56,6 +57,7 @@ const omar = {
   
   ```diff
   + Software Engineering Program - ALX
+  + Management Information Systems Bachelor's degree
   ```
   
 </div>
