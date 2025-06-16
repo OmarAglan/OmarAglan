@@ -18,7 +18,7 @@
 ```javascript
 const omar = {
     role: "Software Engineer",
-    code: ["C", "C++", "C#", "Paython","HTML", "CSS","Javascript"],
+    code: ["C", "C++", "C#", "Python", "HTML", "CSS", "JavaScript", "TypeScript", "Makefile", "Assembly"],
     technologies: {
         frontEnd: ["React.js", "Vue.js", "Next.js"],
         backEnd: ["Node.js", "Express.js"],
@@ -37,19 +37,65 @@ const omar = {
 
 ## 🚀 Skills & Technologies
 
-<div align="center">
+## 🖥️ Front-end Development
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+*   **HTML (90%)** & **CSS (75%)** – solid markup and styling foundation, likely responsive design.
+*   **JavaScript (65%)** – interactive behavior and dynamic UI logic.
+*   **React.js (95%)**, also **Vue.js**, **Next.js** – expert-level modern frameworks for SPA and SSR web apps.
+*   **Tailwind CSS**, **Bootstrap**, **Chart.js** – utility-first styling and data visualization tools.
 
-</div>
+---
+
+## 🛠️ Back-end Development
+
+*   **Node.js (90%)** with **Express.js** – performant server and REST API development.
+*   **PHP (50%)** – LAMP-stack experience.
+*   **Firebase (60%)** – backend-as-a-service integration (hosting, auth, real-time DB).
+*   **Python (70%)** – scripting, backend services, possibly API development.
+*   **MongoDB**, **SQL-based DBs** – data storage for full-stack apps.
+*   **Makefile**, **Assembly**, **Bootloader Dev** – build automation and system-calibration tools.
+
+---
+
+## 🎮 Game & Systems Programming
+
+*   **C/C++ (90%)** – core for engine and system-level work.
+*   **C# (85%)** – Unity-based game development.
+*   **Assembly Language** – bootloader and ultra-low‑level coding.
+*   **OpenGL / DirectX (60%)**, **Unity (80%)**, **Unreal Engine (50%)** – graphics-API and engine expertise.
+*   **Custom Game Engine (40%)** – designing engine architecture from the ground up.
+
+---
+
+## 🎨 Design & UI/UX
+
+*   **UI/UX Design**, **Game Design** – interface, user experience, and gameplay planning skills.
+
+---
+
+## 🔧 Tools & Other Technologies
+
+*   **Git**, through GitHub – version control.
+*   **Blender** – 3D modeling for game assets.
+*   **Chart.js**, **Tailwind CSS**, **Bootstrap**, **Makefile**
+*   **LAMP**, **MEAN**, **MERN**, **.NET stacks** – end-to-end development across varied stacks.
+*   **Assembly + Makefile**, for bootloader creation.
+
+---
+
+## 📊 Skill Proficiency Summary
+
+| Category               | Technologies & Tools                                 |
+| ---------------------- | ---------------------------------------------------- |
+| **Markup & Styling**   | HTML, CSS, Tailwind, Bootstrap                       |
+| **Front-end**          | JS, TypeScript, React, Vue, Next, Chart.js           |
+| **Back-end**           | Node.js, Express, PHP, Firebase, Python, MongoDB     |
+| **Systems / Game**     | C, C++, C#, Assembly, OpenGL, DirectX, Unity, Unreal |
+| **Design**             | UI/UX, Game design                                   |
+| **Build / DevOps**     | Makefile, Git, Bootloader tooling                    |
+| **3D & Visualization** | Blender, Chart.js                                    |
+
+---
 
 ## 🎓 Education & Certifications
 
