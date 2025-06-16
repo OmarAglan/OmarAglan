@@ -17,7 +17,7 @@
 
 ```javascript
 const omar = {
-    role: "Full Stack & Game Developer",
+    role: "Software Engineer",
     code: ["C", "C++", "C#", "Paython","HTML", "CSS","Javascript"],
     technologies: {
         frontEnd: ["React.js", "Vue.js", "Next.js"],
