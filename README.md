@@ -17,17 +17,17 @@
 
 ```javascript
 const omar = {
-    role: "Software Engineer",
+    role: "Founder at Pyramid Systems Inc. & Lead Software Engineer",
     code: ["C", "C++", "C#", "Python", "HTML", "CSS", "JavaScript", "TypeScript", "Makefile", "Assembly"],
     technologies: {
-        frontEnd: ["React.js", "Vue.js", "Next.js"],
+        frontEnd: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
         backEnd: ["Node.js", "Express.js"],
         gamedev: ["Unity", "OpenGL","DirectX"],
         design: ["UI/UX", "Game Design", "Web Design"],
         softwareEngineer: ["Compiler Design", "Low Level Programming",".Net"]
     },
-    currentFocus: "Working on Baa Programming Language and Arbsh Shell",
-    funFact: "I seek to Add Multiple Massive Arabic Projects to the Web!"
+    currentFocus: "Developing innovative solutions at Pyramid Systems Inc., including Digital-Scribe and Myriad-Mind.",
+    funFact: "Dedicated to advancing Arabic language integration in technology."
 };
 ```
 
