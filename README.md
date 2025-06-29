@@ -39,19 +39,19 @@ const omar = {
 
 ## 🖥️ Front-end Development
 
-*   **HTML (90%)** & **CSS (75%)** – solid markup and styling foundation, likely responsive design.
-*   **JavaScript (65%)** – interactive behavior and dynamic UI logic.
-*   **React.js (95%)**, also **Vue.js**, **Next.js** – expert-level modern frameworks for SPA and SSR web apps.
+*   **HTML** & **CSS** – solid markup and styling foundation, likely responsive design.
+*   **JavaScript ** – interactive behavior and dynamic UI logic.
+*   **React.js**, also **Vue.js**, **Next.js** – expert-level modern frameworks for SPA and SSR web apps.
 *   **Tailwind CSS**, **Bootstrap**, **Chart.js** – utility-first styling and data visualization tools.
 
 ---
 
 ## 🛠️ Back-end Development
 
-*   **Node.js (90%)** with **Express.js** – performant server and REST API development.
-*   **PHP (50%)** – LAMP-stack experience.
-*   **Firebase (60%)** – backend-as-a-service integration (hosting, auth, real-time DB).
-*   **Python (70%)** – scripting, backend services, possibly API development.
+*   **Node.js** with **Express.js** – performant server and REST API development.
+*   **PHP** – LAMP-stack experience.
+*   **Firebase** – backend-as-a-service integration (hosting, auth, real-time DB).
+*   **Python** – scripting, backend services, possibly API development.
 *   **MongoDB**, **SQL-based DBs** – data storage for full-stack apps.
 *   **Makefile**, **Assembly**, **Bootloader Dev** – build automation and system-calibration tools.
 
@@ -59,11 +59,11 @@ const omar = {
 
 ## 🎮 Game & Systems Programming
 
-*   **C/C++ (90%)** – core for engine and system-level work.
-*   **C# (85%)** – Unity-based game development.
+*   **C/C++** – core for engine and system-level work.
+*   **C#** – Unity-based game development.
 *   **Assembly Language** – bootloader and ultra-low‑level coding.
-*   **OpenGL / DirectX (60%)**, **Unity (80%)**, **Unreal Engine (50%)** – graphics-API and engine expertise.
-*   **Custom Game Engine (40%)** – designing engine architecture from the ground up.
+*   **OpenGL / DirectX**, **Unity**, **Unreal Engine** – graphics-API and engine expertise.
+*   **Custom Game Engine** – designing engine architecture from the ground up.
 
 ---
 
