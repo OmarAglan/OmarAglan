@@ -40,7 +40,7 @@ const omar = {
 ## 🖥️ Front-end Development
 
 *   **HTML** & **CSS** – solid markup and styling foundation, likely responsive design.
-*   **JavaScript ** – interactive behavior and dynamic UI logic.
+*   **JavaScript** – interactive behavior and dynamic UI logic.
 *   **React.js**, also **Vue.js**, **Next.js** – expert-level modern frameworks for SPA and SSR web apps.
 *   **Tailwind CSS**, **Bootstrap**, **Chart.js** – utility-first styling and data visualization tools.
 
