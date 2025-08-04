@@ -11,6 +11,10 @@
   </a>
 </div>
 
+<div align="center">
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAglan&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+</div> 
+
 <br>
 
 ## 💫 About Me
@@ -253,7 +257,7 @@ img.shields.io/badge/Auction%20App-.Net%20Core%20(C%23)-9cf?style=for-the-badge"
 ##  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaraglan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OmarAglan&theme=dark&border_radius=4&short_numbers=true&date_format=%5BY%20%5DM%20j&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
