@@ -264,12 +264,6 @@ img.shields.io/badge/Auction%20App-.Net%20Core%20(C%23)-9cf?style=for-the-badge"
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaraglan&theme=tokyonight" alt="Profile Details" />
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats-sand-seven.vercel.app?user=omaraglan)](https://git.io/streak-stats)
-  
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
