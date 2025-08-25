@@ -52,12 +52,12 @@ const omar = {
 
 ## 🛠️ Back-end Development
 
-*   **Node.js** with **Express.js** – performant server and REST API development.
+*   **Node.js** with **Express.js** and **Nest.js** – performant server and REST API development.
 *   **PHP** – LAMP-stack experience.
 *   **Firebase** – backend-as-a-service integration (hosting, auth, real-time DB).
 *   **Python** – scripting, backend services, possibly API development.
 *   **MongoDB**, **SQL-based DBs** – data storage for full-stack apps.
-*   **Makefile**, **Assembly**, **Bootloader Dev** – build automation and system-calibration tools.
+*   **Makefile**, **Cmake**, **Github Action** – build automation and system-calibration tools.
 
 ---
 
@@ -65,7 +65,7 @@ const omar = {
 
 *   **C/C++** – core for engine and system-level work.
 *   **C#** – Unity-based game development.
-*   **Assembly Language** – bootloader and ultra-low‑level coding.
+*   **Assembly Language** – bootloader and OS Development and ultra-low‑level coding.
 *   **OpenGL / DirectX**, **Unity**, **Unreal Engine** – graphics-API and engine expertise.
 *   **Custom Game Engine** – designing engine architecture from the ground up.
 
@@ -80,10 +80,8 @@ const omar = {
 ## 🔧 Tools & Other Technologies
 
 *   **Git**, through GitHub – version control.
-*   **Blender** – 3D modeling for game assets.
 *   **Chart.js**, **Tailwind CSS**, **Bootstrap**, **Makefile**
 *   **LAMP**, **MEAN**, **MERN**, **.NET stacks** – end-to-end development across varied stacks.
-*   **Assembly + Makefile**, for bootloader creation.
 
 ---
 
@@ -96,8 +94,8 @@ const omar = {
 | **Back-end**           | Node.js, Express, PHP, Firebase, Python, MongoDB     |
 | **Systems / Game**     | C, C++, C#, Assembly, OpenGL, DirectX, Unity, Unreal |
 | **Design**             | UI/UX, Game design                                   |
-| **Build / DevOps**     | Makefile, Git, Bootloader tooling                    |
-| **3D & Visualization** | Blender, Chart.js                                    |
+| **Build / DevOps**     | Makefile, Git                                        |
+| **3D & Visualization** | Chart.js                                             |
 
 ---
 
@@ -127,7 +125,6 @@ const omar = {
   <p align="center">
     <a href="https://github.com/OmarAglan/Baa" target="_blank"><img src="https://img.shields.io/badge/Baa%20Lang-Arabic%20(C%20Like)-lightgrey?style=for-the-badge" alt="Baa Language"/></a>
     <a href="https://github.com/OmarAglan/ArbSh" target="_blank"><img src="https://img.shields.io/badge/ArbSh%20Shell-C%23%20%7C%20.NET-blueviolet?style=for-the-badge" alt="ArbSh Shell"/></a>
-    <a href="https://github.com/OmarAglan/DX9SDK" target="_blank"><img src="https://img.shields.io/badge/DirectX%209%20SDK-C-informational?style=for-the-badge" alt="DX9SDK"/></a>
   </p>
 
   <h3 align="center">🌐 Web Development Projects</h3>
@@ -208,7 +205,7 @@ img.shields.io/badge/Auction%20App-.Net%20Core%20(C%23)-9cf?style=for-the-badge"
 ## 🚀 Featured Projects: Pyramid Systems Inc.
 
 <div align="center">
-  <h3 align="center">🌐 Core Web & Desktop Applications</h3>
+  <h3 align="center">🌐 Core Web & Desktop & Android Applications</h3>
   <p align="center">
     <a href="https://github.com/Pyramid-Systems-Inc/Digital-Scribe" target="_blank"><img src="https://img.shields.io/badge/Digital_Scribe-Hieroglyph%20Composer%20(TS%2C%20React)-blue?style=for-the-badge&logo=react" alt="Digital-Scribe"/></a>
     <a href="https://github.com/Pyramid-Systems-Inc/nile-table" target="_blank"><img src="https://img.shields.io/badge/Nile_Table-Restaurant%20Booking%20(TS%2C%20Next.js)-green?style=for-the-badge&logo=next.js" alt="nile-table"/></a>
@@ -219,14 +216,13 @@ img.shields.io/badge/Auction%20App-.Net%20Core%20(C%23)-9cf?style=for-the-badge"
   <h3 align="center">⚙️ Game Engine & System-Level</h3>
   <p align="center">
     <a href="https://github.com/Pyramid-Systems-Inc/Pyramid-Engine" target="_blank"><img src="https://img.shields.io/badge/Pyramid_Engine-Game%20Engine%20(C%2B%2B%2C%20OpenGL)-red?style=for-the-badge&logo=cplusplus" alt="Pyramid-Engine"/></a>
-    <a href="https://github.com/Pyramid-Systems-Inc/PyramidBL" target="_blank"><img src="https://img.shields.io/badge/PyramidBL-Bootloader%20(Assembly%2C%20C)-darkgrey?style=for-the-badge" alt="PyramidBL"/></a>
+    <a href="https://github.com/Pyramid-Systems-Inc/PyramidOS" target="_blank"><img src="https://img.shields.io/badge/PyramidBL-Bootloader%20(Assembly%2C%20C)-darkgrey?style=for-the-badge" alt="PyramidOS"/></a>
      <a href="https://github.com/Pyramid-Systems-Inc/PyramidUI" target="_blank"><img src="https://img.shields.io/badge/PyramidUI-C%20UI%20Testing-orange?style=for-the-badge&logo=c" alt="PyramidUI"/></a>
   </p>
 
   <h3 align="center">🤖 AI & Advanced Computing</h3>
   <p align="center">
     <a href="https://github.com/Pyramid-Systems-Inc/Myriad-Mind" target="_blank"><img src="https://img.shields.io/badge/Myriad_Mind-Decentralized%20AI%20(Python)-teal?style=for-the-badge&logo=python" alt="Myriad-Mind"/></a>
-    <a href="https://github.com/Pyramid-Systems-Inc/Project-Myriad" target="_blank"><img src="https://img.shields.io/badge/Project_Myriad-AI%20Companion-blueviolet?style=for-the-badge" alt="Project-Myriad"/></a>
   </p>
 </div>
 
