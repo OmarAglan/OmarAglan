@@ -5,7 +5,7 @@
 
 ---
 
-Full-stack engineer with 2+ years building production APIs and web applications. Focused on backend architecture, secure authentication, and clean system design. Founder at [Pyramid Systems Inc.](https://github.com/Pyramid-Systems-Inc)
+Full-stack engineer with 2+ years building production APIs and web applications. Focused on backend architecture, secure authentication, and clean system design. Founder at [Pyramid Systems Inc.](https://github.com/RuqoomTech)
 
 ---
 
@@ -27,7 +27,7 @@ Full-stack engineer with 2+ years building production APIs and web applications.
 |---|---|---|
 | [TaskForge](https://github.com/OmarAglan/TaskForge) | React, NestJS, PostgreSQL | Bilingual (EN/AR) task tracker with JWT auth and RBAC |
 | [Roshta](https://github.com/OmarAglan/Roshta) | ASP.NET Core 9, SQLite | Prescription management system with Clean Architecture |
-| [BaltemGuide](https://github.com/Pyramid-Systems-Inc/BaltemGuide) | React Native, Node.js | City services guide with Google/email auth and deep-link actions |
+| [BaltemGuide](https://github.com/RuqoomTech/BaltemGuide) | React Native, Node.js | City services guide with Google/email auth and deep-link actions |
 | [Baa Lang](https://github.com/OmarAglan/Baa) | C | Arabic-syntax programming language |
 | [ArbSh](https://github.com/OmarAglan/ArbSh) | C#, .NET | Arabic-first command-line shell |
 
