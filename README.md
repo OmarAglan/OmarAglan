@@ -5,7 +5,7 @@
 
 ---
 
-Full-stack engineer with 2+ years building production APIs and web applications. Focused on backend architecture, secure authentication, and clean system design. Founder at [Pyramid Systems Inc.](https://github.com/RuqoomTech)
+Full-stack engineer with 2+ years building production APIs and web applications. Focused on backend architecture, secure authentication, and clean system design. Founder at [Ruqoom Tech](https://github.com/RuqoomTech)
 
 ---
 
